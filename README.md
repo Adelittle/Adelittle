@@ -37,6 +37,3 @@ You can click the Preview link to take a look at your changes.
     alt="Adelittle" /></p>
 
 <br/>
-
-<a href="https://github.com/Adelittle"><img alt="Adelittle's Activity Graph"
-    src="https://activity-graph.herokuapp.com/graph?username=Adelittle&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
