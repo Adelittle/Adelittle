@@ -12,8 +12,8 @@
 <h3 align="center">Bug Hunter and Penetration Tester</h3>
 
 - 👀 I’m interested in Cyber Security
-- 📱 I’m currently learning Mobile Pentest
-- 💻 I’m looking for opportunity to work in cyber security
+- 📱 I’m currently learning Active Directory
+- 💻 I'm looking for an opportunity to work as a penetration tester.
 - 📫 How to reach me With 
 - Email : nakanosec@gmail.com
 - Instagram : ade_little
